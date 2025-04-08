@@ -1,11 +1,4 @@
-# Packages and CLI automation
-* Task: Automate creating 2 conda environments, search and install different packages in
-both environments. Finally verify the packages are installed successfully.
-  * Task Description: The candidate should write the test cases preferably in Python
-  using Pytest and required python libraries to run the CLI commands.
-  * Task Requirement: The packages installation run in Linux, Windows and MacOS
-  correspondingly. Add required validations and a test execution report for the
-  developed tests.
+# Env & Packages
 
 ## Project Structure
 - `tests/test_envs.py`: Contains the test cases for creating conda environments and installing packages.
