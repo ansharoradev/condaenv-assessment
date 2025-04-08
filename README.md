@@ -20,7 +20,7 @@ Included but not used since `conda_cli` provides a better interface for automati
 ## Setup
 1. Clone the repository:
 ```
-git clone git@github.com:anshooarora/condaenv-assessment.git
+git clone git@github.com:ansharoradev/condaenv-assessment.git
 cd condaenv-assessment
 ```
 
