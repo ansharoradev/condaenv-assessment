@@ -1,0 +1,7 @@
+api.log
+__pycache__
+.idea/
+*.log
+reports/
+logs/
+venv/
